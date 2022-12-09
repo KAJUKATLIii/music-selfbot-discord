@@ -17,7 +17,14 @@ This uses  uses users token to play music in voice channel.
       width="40"
       height="40"
     />
-   
+          </a>
+   <a> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+          </a>
 ## Deployment
 
 To deploy this project on Replit.
