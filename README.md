@@ -141,6 +141,7 @@ To run this project in replit , you will need to add the following environment v
 ## THE CODE MADE BY
 
 - [@KAJUKATLii](https://www.github.com/KAJUKATLii)
+- [@Luzivog](https://github.com/Luzivog)
 
 
 ## WARNINGS
